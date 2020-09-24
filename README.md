@@ -9,8 +9,8 @@ Beautiful icons for VSCode based on macOS Big Sur design.
 
 ## 🎨 Download Icons
 
-- [🌞 Light](https://github.com/mohouyizme/vscode-big-sur-icons/blob/master/icons/light.icns)
-- [🌙 Dark](https://github.com/mohouyizme/vscode-big-sur-icons/blob/master/icons/dark.icns)
+- 🌞 [Light](https://github.com/mohouyizme/vscode-big-sur-icons/blob/master/icons/light.icns)
+- 🌙 [Dark](https://github.com/mohouyizme/vscode-big-sur-icons/blob/master/icons/dark.icns)
 
 ## 💡 Usage (only for macOS)
 
